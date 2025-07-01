@@ -13,11 +13,6 @@ Testes: Postman (coleção inclusa)
 🌟 Funcionalidades
 ✅ Posts
 
-📌 Endpoints Principais
-Método	Endpoint	Descrição
-POST	/api/posts	Criar novo post
-GET	/api/posts/{id}	Buscar post por ID
-POST	/api/posts/{id}/curtir	Curtir post
 
 Criar, editar, listar e deletar posts
 ✅ Comentários
